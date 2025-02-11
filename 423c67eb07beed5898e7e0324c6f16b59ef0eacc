@@ -1,0 +1,19 @@
+-----BEGIN PGP SIGNATURE-----
+Comment: This signature is for the .tar version of the archive
+Comment: git archive --format tar --prefix=linux-firmware-20250211/ 20250211
+Comment: git version 2.43.5
+
+iQIzBAABCAAdFiEETN6FdeVHv4Nf4VgHoxtr1ySGz9YFAmerQKcACgkQoxtr1ySG
+z9ZtDA/9GlQ6n6TqhQtWmn5MddRZScOe+xAE8wOupSsMoWIHOrRhvMHiiPEGjvpC
+AHHFeTTMHlwW9NaJbA2Rs6sNuqsSViCd4ZICnwWzsWX1ge0xkV49Sm4uJrkh53FI
+/eSZdsAQdZcOGz2tzAOOEZdEELDeGOvMaAllLBq0lg+n0cncEwJz+FPgGwm+1sMv
+I5UE6gAhOBs+yQTRCigR8OMPwCFPCGkPs/+cVx3lofL+6T8aZu+qQZlrhMf8aZpu
+t0VvDM/ref4oeiuvLIVpke1jLNJUeQKf/C81d8ODTmlzeLAkruH5ZREVbvEc4pnB
+OM2Q9hIoinhdEFQLF3ZBSp5rpV0/aiiRMChhaBtWDVgh4xmErTFF5q3BkurJfMfy
+UK1PbXJ4EHPcSOJyMFv2P45B/U/pxaJkPY6zgKHltlkLnr+e2gVM4mLEj1IJrMz7
+FuGwnW9S3HkJzAsuBnWf89VOMZIzS+jD4+l7MTamr/hn2kmcHUl97dyIytobrDVO
+KBeKITPcJ80d2ryMD4s+6TpqvG+Ky0e17yxqDKBXyW8w1UqHW/seaqiD8lRyGxW4
+IpqmM5cR+XxEJ8ivAoRv+rTdUbI4t1FFdQiJ3F5LsVEhlbVF7uuMUxel7umqv8De
+1hyoWk2wHGYgZSTSLnxp04J9+PWIy9XjQwAyS+u6zQqRlJRCdNA=
+=SI7t
+-----END PGP SIGNATURE-----
